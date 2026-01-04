@@ -42,6 +42,7 @@ programmers/
 | 레벨 | 문제 이름 | 유형 | 언어 | 풀이 코드 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 0 | 콜라츠 수열 만들기 | 재귀, 구현 | JS | [`lv0/PGS_콜라츠수열만들기_collatzSequence.js`](./lv0/PGS_콜라츠수열만들기_collatzSequence.js) | ✅ 재귀 기초 및 Base Case 연습 |
+| 0 | 코드 처리하기 | 구현, 시뮬레이션 | JS | [`lv0/PGS_코드처리하기_codeProcessing.js`](./lv0/PGS_코드처리하기_codeProcessing.js) | 💡 상태(mode) 토글 로직 활용 |
 
 <!-- - 필요하면 “기업/공채/인적성/기출” 같은 컬럼을 추가해도 좋습니다. -->
 <!--
