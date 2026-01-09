@@ -37,3 +37,23 @@ function solution(a, b, c) {
  * * ⏳ 시간 복잡도: O(1) (입력값이 항상 3개로 고정됨)
  * * 💾 공간 복잡도: O(1) (고정된 개수의 변수만 사용)
  */
+
+/** 개인 풀이 */
+function solution1(a, b, c) {
+  const uniqueNumbers = new Set([a, b, c]);
+
+  const sum1 = a + b + c;
+  const sum2 = a ** 2 + b ** 2 + c ** 2;
+  const sum3 = a ** 3 + b ** 3 + c ** 3;
+
+  if (uniqueNumbers.size === 3) {
+    return sum1;
+  } else if (uniqueNumbers.size === 2) {
+    return sum1 * sum2;
+  } else {
+    return sum1 * sum2 * sum3;
+  }
+}
+
+/** 추가 풀이 방법 */
+// 없음

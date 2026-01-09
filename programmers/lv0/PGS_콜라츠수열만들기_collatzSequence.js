@@ -36,7 +36,7 @@ function solution(n, sequence = []) {
  */
 
 /** 개인 풀이 */
-function solution(n) {
+function solution1(n) {
   var answer = [n];
 
   while (n !== 1) {
@@ -49,3 +49,6 @@ function solution(n) {
   }
   return answer;
 }
+
+/** 추가 풀이 방법 */
+// 없음

@@ -45,3 +45,34 @@ function solution(code) {
  */
 
 /** 개인 풀이 */
+function solution1(code) {
+  var ret = '';
+  var mode = 0;
+
+  for (let idx = 0; idx <= code.length - 1; idx++) {
+    if (code[idx] === '1') {
+      mode = +!mode;
+    } else {
+      if (mode === 0 && idx % 2 === 0) {
+        ret += code[idx];
+      }
+      if (mode !== 0 && idx % 2 !== 0) {
+        ret += code[idx];
+      }
+    }
+  }
+  return ret.length === 0 ? 'EMPTY' : ret;
+}
+
+/** 추가 풀이 방법 */
+function solution2(code) {
+  for (let i = 0; i < code.length; i += 1) {
+    if (Number(code[i]) === 1) {
+      mode = mode === 1 ? 0 : 1;
+    }
+    if (Number(code[i]) !== 1 && i % 2 === mode) {
+      answer += code[i];
+    }
+  }
+  return answer.length > 0 ? answer : 'EMPTY';
+}
