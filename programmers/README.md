@@ -45,6 +45,8 @@ programmers/
 | 0 | 코드 처리하기 | 구현, 시뮬레이션 | JS | [`lv0/PGS_코드처리하기_codeProcessing.js`](./lv0/PGS_코드처리하기_codeProcessing.js) | 💡 상태(mode) 토글 로직 활용 |
 | 0 | 주사위 게임 2 | 구현, 수학 | JS | [`lv0/PGS_주사위게임2_diceGame2.js`](./lv0/PGS_주사위게임2_diceGame2.js) | 🎲 Set을 활용한 중복 제거 패턴 |
 | 0 | 원소들의 곱과 합 | 구현, 수학 | JS | [`lv0/PGS_원소들의곱과합_productAndSum.js`](./lv0/PGS_원소들의곱과합_productAndSum.js) | 🔢 reduce를 이용한 누적 연산 연습 |
+| 0 | 이어 붙인 수 | 구현, 최적화 | JS | [`lv0/PGS_이어붙인수_concatenatedNumber.js`](./lv0/PGS_이어붙인수_concatenatedNumber.js) | 🚀 filter와 reduce 방식 비교 분석 |
+| 0 | 수 조작하기 2 | 구현 | JS | [`lv0/PGS_수조작하기2_controlNumber2.js`](./lv0/PGS_수조작하기2_controlNumber2.js) | 🗝️ 객체 매핑을 활용한 역산 구현 |
 
 <!-- - 필요하면 “기업/공채/인적성/기출” 같은 컬럼을 추가해도 좋습니다. -->
 <!--
