@@ -47,6 +47,7 @@ programmers/
 | 0 | 원소들의 곱과 합 | 구현, 수학 | JS | [`lv0/PGS_원소들의곱과합_productAndSum.js`](./lv0/PGS_원소들의곱과합_productAndSum.js) | 🔢 reduce를 이용한 누적 연산 연습 |
 | 0 | 이어 붙인 수 | 구현, 최적화 | JS | [`lv0/PGS_이어붙인수_concatenatedNumber.js`](./lv0/PGS_이어붙인수_concatenatedNumber.js) | 🚀 filter와 reduce 방식 비교 분석 |
 | 0 | 수 조작하기 2 | 구현 | JS | [`lv0/PGS_수조작하기2_controlNumber2.js`](./lv0/PGS_수조작하기2_controlNumber2.js) | 🗝️ 객체 매핑을 활용한 역산 구현 |
+| 0 | 수열과 구간 쿼리 2 | 탐색, 배열 | JS | [`lv0/PGS_수열과구간쿼리2_sequenceQuery2.js`](./lv0/PGS_수열과구간쿼리2_sequenceQuery2.js) | 🔍 범위 내 조건부 최솟값 찾기 |
 
 <!-- - 필요하면 “기업/공채/인적성/기출” 같은 컬럼을 추가해도 좋습니다. -->
 <!--
