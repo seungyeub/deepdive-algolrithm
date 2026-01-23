@@ -50,6 +50,7 @@ programmers/
 | 0 | 수열과 구간 쿼리 2 | 탐색, 배열 | JS | [`lv0/PGS_수열과구간쿼리2_sequenceQuery2.js`](./lv0/PGS_수열과구간쿼리2_sequenceQuery2.js) | 🔍 범위 내 조건부 최솟값 찾기 |
 | 0 | 배열 만들기 2 | 구현 | JS | [`lv0/PGS_배열만들기2_makingArray2.js`](./lv0/PGS_배열만들기2_makingArray2.js) | 🎯 정규표현식(Regex) 필터링 패턴 |
 | 0 | 주사위 게임 3 | 구현 | JS | [`lv0/PGS_주사위게임3_diceGame3.js`](./lv0/PGS_주사위게임3_diceGame3.js) | 🎲 정렬 및 빈도수 분석 기법 비교 |
+| 0 | 간단한 논리 연산 | 논리 연산 | JS | [`lv0/PGS_간단한논리연산_simpleLogic.js`](./lv0/PGS_간단한논리연산_simpleLogic.js) | ⚖️ 논리 기호와 연산자 매핑 |
 
 <!-- - 필요하면 “기업/공채/인적성/기출” 같은 컬럼을 추가해도 좋습니다. -->
 <!--
