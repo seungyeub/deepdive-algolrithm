@@ -53,6 +53,7 @@ programmers/
 | 0 | 간단한 논리 연산 | 논리 연산 | JS | [`lv0/PGS_간단한논리연산_simpleLogic.js`](./lv0/PGS_간단한논리연산_simpleLogic.js) | ⚖️ 논리 기호와 연산자 매핑 |
 | 0 | 글자 이어 붙여 문자열 만들기 | 문자열 | JS | [`lv0/PGS_글자이어붙여문자열만들기_stringFromIndices.js`](./lv0/PGS_글자이어붙여문자열만들기_stringFromIndices.js) | 🔠 배열 인덱싱과 문자열 결합 |
 | 0 | 9로 나눈 나머지 | 수학 | JS | [`lv0/PGS_9로나눈나머지_remainderNine.js`](./lv0/PGS_9로나눈나머지_remainderNine.js) | 🔢 큰 수의 나머지 연산 원리 |
+| 0 | 문자열 여러 번 뒤집기 | 문자열 | JS | [`lv0/PGS_문자열여러번뒤집기_reverseStringMultiple.js`](./lv0/PGS_문자열여러번뒤집기_reverseStringMultiple.js) | 🔄 slice, reverse, splice 활용 |
 
 <!-- - 필요하면 “기업/공채/인적성/기출” 같은 컬럼을 추가해도 좋습니다. -->
 <!--
