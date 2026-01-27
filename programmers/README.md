@@ -54,6 +54,7 @@ programmers/
 | 0 | 글자 이어 붙여 문자열 만들기 | 문자열 | JS | [`lv0/PGS_글자이어붙여문자열만들기_stringFromIndices.js`](./lv0/PGS_글자이어붙여문자열만들기_stringFromIndices.js) | 🔠 배열 인덱싱과 문자열 결합 |
 | 0 | 9로 나눈 나머지 | 수학 | JS | [`lv0/PGS_9로나눈나머지_remainderNine.js`](./lv0/PGS_9로나눈나머지_remainderNine.js) | 🔢 큰 수의 나머지 연산 원리 |
 | 0 | 문자열 여러 번 뒤집기 | 문자열 | JS | [`lv0/PGS_문자열여러번뒤집기_reverseStringMultiple.js`](./lv0/PGS_문자열여러번뒤집기_reverseStringMultiple.js) | 🔄 slice, reverse, splice 활용 |
+| 0 | 배열 만들기 5 | 문자열 | JS | [`lv0/PGS_배열만들기5_makingArray5.js`](./lv0/PGS_배열만들기5_makingArray5.js) | ✂️ 특정 구간 추출 및 조건 필터링 |
 
 <!-- - 필요하면 “기업/공채/인적성/기출” 같은 컬럼을 추가해도 좋습니다. -->
 <!--
